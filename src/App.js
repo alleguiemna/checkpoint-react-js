@@ -4,7 +4,7 @@ import { Form, Button } from "react-bootstrap";
 
 function App() {
   return (
-    <div className="reactjs">
+    <div className="app">
       <div className="center">
         <h1 style={{ color: "red", fontSize: "30px" }}>Login</h1>
         <Form className="formulaire">
