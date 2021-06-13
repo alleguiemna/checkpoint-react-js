@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/checkpoint-react-js/static/css/main.062ad4a8.chunk.css",
+    "main.js": "/checkpoint-react-js/static/js/main.ada3ec36.chunk.js",
+    "main.js.map": "/checkpoint-react-js/static/js/main.ada3ec36.chunk.js.map",
+    "runtime-main.js": "/checkpoint-react-js/static/js/runtime-main.e266b33d.js",
+    "runtime-main.js.map": "/checkpoint-react-js/static/js/runtime-main.e266b33d.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/checkpoint-react-js/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.56e221bd.chunk.js": "/checkpoint-react-js/static/js/2.56e221bd.chunk.js",
+    "static/js/2.56e221bd.chunk.js.map": "/checkpoint-react-js/static/js/2.56e221bd.chunk.js.map",
+    "static/js/3.37e32216.chunk.js": "/checkpoint-react-js/static/js/3.37e32216.chunk.js",
+    "static/js/3.37e32216.chunk.js.map": "/checkpoint-react-js/static/js/3.37e32216.chunk.js.map",
+    "index.html": "/checkpoint-react-js/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/checkpoint-react-js/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.062ad4a8.chunk.css.map": "/checkpoint-react-js/static/css/main.062ad4a8.chunk.css.map",
+    "static/js/2.56e221bd.chunk.js.LICENSE.txt": "/checkpoint-react-js/static/js/2.56e221bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e266b33d.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.56e221bd.chunk.js",
+    "static/css/main.062ad4a8.chunk.css",
+    "static/js/main.ada3ec36.chunk.js"
+  ]
+}
